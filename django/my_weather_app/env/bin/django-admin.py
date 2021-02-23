@@ -1,4 +1,4 @@
-#!/Users/askdba/Documents/GitHub/django_vitess/my_weather_app/env/bin/python3
+#!/Users/askdba/Documents/GitHub/vitess_frameworks/django/my_weather_app/env/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
